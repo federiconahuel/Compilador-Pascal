@@ -1,3 +1,3 @@
 # Compilador-Pascal
 
-Para ejecutar, utilizar el archivo "SintacticoTester.java" (en src/AnalizadorSintactico)
+Para su uso, ejecute el archivo "SintacticoTester.java" (en src/AnalizadorSintactico)
